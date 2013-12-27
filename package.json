@@ -4,7 +4,6 @@
   "description": "A flowHttp extension used for parsing json HTTP responses",
   "main": "index.js",
   "dependencies": {
-    "jsonstream": "0.0.1",
     "JSONStream": "~0.7.1"
   },
   "devDependencies": {
